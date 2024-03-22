@@ -1,2 +1,7 @@
 hello
+Accepted Both
+<<<<<< feature/amy-cart
 product 1
+======
+product 2
+>>>>>> main
